@@ -89,11 +89,12 @@ This project helps answer:
 - Monitor high-risk cities and categories.
 
 ## Dashboard Preview
-Add dashboard screenshot here.
+![Dashboard Preview](Screenshot 2026-05-19 004257.png)
+
 
 ## Project Files
 - Excel Workbook: `Ecommerce_Profit_Leakage_Recovery_Project.xlsm`
-- Dashboard Screenshot: `Screenshota`
+- Dashboard Screenshot:  `Screenshot 2026-05-19 004257.png`
 - Project Explanation: `project_explanation.pdf`
 
 ## Project Outcome
